@@ -7,7 +7,7 @@ Back End: PHP<br>
 Database: MySQL
 
 # Database Diagram
-![Transaction Database Diagram](https://github.com/DonnnChaewon/mstransaction/blob/main/documentation/TransactionDatabaseDiagram.png)
+![Transaction Database Diagram](https://github.com/DonnnChaewon/mstransaction/blob/main/documentation/TransactionDatabaseDiagram.png)<br>
 For this project, I'm using MySQL as database and phpMyAdmin as tool.
 
 # Video Explanation

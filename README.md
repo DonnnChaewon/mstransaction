@@ -1,3 +1,6 @@
+# Biodata
+Nama: Brandon Yang
+
 # Introduction
 This repository showcases a project designed to streamline transaction data management and provide enhanced data editing capabilities. The project enables users to efficiently view, create, and modify transaction records, fostering a more organized and accessible data environment.
 

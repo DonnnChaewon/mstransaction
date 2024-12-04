@@ -36,5 +36,5 @@ Watch My Video Explanation Here! https://drive.google.com/file/d/1zsoeAJhb9ftoTV
 ![View Edited Data](https://github.com/DonnnChaewon/mstransaction/blob/main/documentation/View%20Edited%20Data.png)
 
 # How to run
-Place This Folder In C://xampp/htdocs/
+Place This Folder In C://xampp/htdocs/<br>
 Don't forget to run xampp and MySQL

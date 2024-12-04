@@ -6,5 +6,6 @@ This repository showcases a project designed to streamline transaction data mana
 For this project, I'm using MySQL as database and phpMyAdmin as tool.
 
 # Video Explanation
+![Video Explanation](https://github.com/DonnnChaewon/mstransaction/blob/main/documentation/Before%20Create%20Data.png)
 ![![Video Explanation](https://github.com/DonnnChaewon/mstransaction/blob/main/documentation/Before%20Create%20Data.png)](https://drive.google.com/file/d/1zsoeAJhb9ftoTV9lIhceP78qP-XGGThW/view?usp=drive_link)
 Watch My Video Explanation Here!

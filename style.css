@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.mx-auto {
+    width: 1200px;
+}
+
+.card {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+th {
+    text-align: center;
+    color: white
+}
+
+td {
+    text-align: center;
+    color: white
+}

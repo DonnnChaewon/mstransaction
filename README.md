@@ -11,7 +11,7 @@ Database: MySQL
 For this project, I'm using MySQL as database and phpMyAdmin as tool.
 
 # Video Explanation
-Watch My Video Explanation Here! https://drive.google.com/file/d/1zsoeAJhb9ftoTV9lIhceP78qP-XGGThW/view?usp=drive_link
+Watch My Video Explanation Here! https://drive.google.com/file/d/1B4Y5QkX6EOhLPQbKJSW3VEBgJoIBihm2/view?usp=drive_link
 
 # Documentation
 ## Before Create Data

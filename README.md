@@ -2,8 +2,8 @@
 This repository showcases a project designed to streamline transaction data management and provide enhanced data editing capabilities. The project enables users to efficiently view, create, and modify transaction records, fostering a more organized and accessible data environment.
 
 # Tech Stack
-Front End: PHP, HTML, & CSS
-Back End: PHP
+Front End: PHP, HTML, & CSS<br>
+Back End: PHP<br>
 Database: MySQL
 
 # Database Diagram
